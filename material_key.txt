@@ -1,0 +1,37 @@
+#---------------------------------------------------------------------------------------------#
+#    This is a file which contains keys to access a certain material from material library    #
+#---------------------------------------------------------------------------------------------#
+
+#-----------------------------#
+
+Material                    Key
+_______________________________
+
+Lime-cement mortar          10
+
+Mineral wool                11
+
+Concrete                    12
+
+Reinforced concrete         13
+
+Extruded polystyrene        14
+
+PVC hydro membrane          15
+
+Cement screed               16
+
+Gravel                      17
+
+Soil                        18
+
+#-----------------------------#
+
+#-----------------------------#
+
+Boundary condition          Key
+_______________________________
+
+Definition as material  100-999
+
+#-----------------------------#
